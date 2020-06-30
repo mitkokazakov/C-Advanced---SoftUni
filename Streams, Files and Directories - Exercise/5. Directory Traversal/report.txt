@@ -1,0 +1,17 @@
+.bmp
+--KPGnewReversed.bmp - 1656.76kb
+--KPGnew.bmp - 1704.87kb
+--08.04.bmp - 1820.56kb
+--KPG Second.bmp - 1820.56kb
+--reversed.bmp - 1820.56kb
+--imageedit_1_6333251899.bmp - 1820.64kb
+--KPG2.bmp - 1894.46kb
+.pcb
+--KPG - 46.pcb - 24.50kb
+--~KPG - 46.pcb - 24.50kb
+.ded
+--KPG.ded - 12.21kb
+.docx
+--KPG.docx - 73.75kb
+.png
+--Elements.png - 22.02kb
